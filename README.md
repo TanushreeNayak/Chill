@@ -1,1 +1,1 @@
-AI-Real-Eye is a machine learning-based web app that detects AI-generated (deepfake) images by analysing facial patterns. The system processes uploaded images through a lightweight HTML interface. It classifies whether the images are real or fake in real time.
+AI-Real-Eye is a machine learning-based web app that detects AI-generated (deepfake) images by analysing facial patterns. The system processes uploaded images through a lightweight HTML interface. It classifies whether images are real or fake in real-time.
